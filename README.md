@@ -1,8 +1,3 @@
-#### Submitted by
-- Name : Shabbir Bohra
-- UIN: 653708894
-- Email : sbohra3@uic.edu
-
 # Overview
 
 This project is based on paralleling the task of Parsing the Huge [XML DBLP](https://dblp.uni-trier.de/xml/) Dataset (2GB) and Collecting the needed 

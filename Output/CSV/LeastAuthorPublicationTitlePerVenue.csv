@@ -1,0 +1,914 @@
+Venue,LeastAuthorPublicationTitle
+article,article Summaries.
+article,Letters.
+article,Why is Requirements Engineering Underused?
+article,Calendar of Events
+article,Announcements.
+article,Announcements.
+article,Problems and Solutions.
+article,Remarks on the ACM SIGIR Conference in Pisa
+article, September 1986.
+article,Book Reviews.
+article,In the News.
+article,Introducing the Boards - IEEE Software Editorial Board and Industry Advisory Board Members.
+article,In the News.
+article,Title.
+article,Proposal to dissolve SIGAPL.
+article,Minutes SIGIR Business Meeting 1982 / SIGIR News.
+article,Extracting User Interests on Facebook.
+article,Photoshop scalability
+book,property Testing - Current Research and Surveys
+incollection,Anonymized Data.
+incollection,Smart/Algorithmic Denial of Service.
+incollection,Variance Hint.
+incollection,Learning Vector Quantization.
+incollection,Using Efficient Database Technology (DB) for Effective Information Retrieval (IR) of Semi-Structured Text.
+incollection,Addition and Subtraction of Matrices.
+incollection,Clustering Evaluation.
+incollection,Multitype.
+incollection,Event Analysis on Social Media.
+incollection,Markov Graphs.
+incollection,True Negative Rate.
+incollection,Communication.
+incollection,User-Centered Pattern Detection.
+incollection,Online Collaboration.
+incollection,Quantitative Political Science.
+incollection,Social Media.
+incollection,Starting Clause.
+incollection,Causal Discovery.
+incollection,Bootstrap Aggregating.
+incollection,Functional Trees.
+incollection,Subgraph Discovery.
+incollection,Collaborative Editing.
+incollection,Elementary Matrix.
+incollection,Multiparty Computation (MPC).
+incollection,Target Collision Resistant Hash Function.
+incollection,Morphosyntactic Disambiguation.
+incollection,Resistance to the Standard Algebraic Attack.
+incollection,Crossbar.
+incollection,Real-Time Recombination.
+incollection,Old Boys Network.
+incollection,Locks.
+incollection,Spatial Item Recommendation.
+incollection,Entity Extraction.
+incollection,Community Climate System Model (CCSM).
+incollection,EPN.
+incollection,Dependence Approximation.
+incollection,Cray MTA.
+incollection,Minimum Cuts.
+incollection,Subgraph Matching.
+incollection,Research in Network Visualization.
+incollection,Simple Event.
+incollection,Scene Change Detection.
+incollection,New City Recommendation.
+incollection,Social Selection.
+incollection,Blackhole Pattern.
+incollection,Tactile.
+incollection,MDS.
+incollection,Trust Anchor.
+incollection,AMG.
+incollection,Relationships.
+incollection,Prevention.
+incollection,Filter/Refinement Query Processing.
+incollection,Dynamic Social Networks.
+incollection,Item.
+incollection,Social Theory.
+incollection,Regression Line.
+incollection,Learning to Learn.
+incollection,Actor-Network Theory.
+incollection,Visualization Framework.
+incollection,Social Influence Propagation Model.
+incollection,Evolution of Privacy Settings.
+incollection,Encryption.
+incollection,JSF.
+incollection,Mobile Recommendation.
+incollection,Avatar.
+incollection,Dewey Decimal Classification.
+incollection,TDIDT Strategy.
+incollection,Electronic Libraries.
+incollection,XML Data Integration.
+incollection,Evolutionary Computing.
+incollection,Relational Data Mining.
+incollection,Developer Collaboration Network.
+incollection,Ordering.
+incollection,XQuery Compiler.
+incollection,Spatial Analysis.
+incollection,Offline Learning.
+incollection,Data Imputation.
+incollection,Physician Order Entry.
+incollection,Distributed Sensor Fusion.
+incollection,Graph Classification.
+incollection,Global Arrays.
+incollection,Annotations.
+incollection,Recommender Systems.
+incollection,Access Control Rules.
+incollection,Symbolic Regression.
+incollection,Learning from Labeled and Unlabeled Data.
+incollection,Samuel's Checkers Player.
+incollection,Spectral Clustering.
+incollection,Video Data Modeling.
+incollection,Parallel Processing.
+incollection,Probabilistic Model of Indexing.
+incollection,Controlled Vocabularies.
+incollection,Gaussian Processes.
+incollection,XSS.
+incollection,Web Penetration Test.
+incollection,Holdout Data.
+incollection,Recovery Manager.
+incollection,Weak Collision Resistance.
+incollection,Multistrategy Ensemble Learning.
+incollection,Characteristic.
+incollection,Graph Clustering.
+incollection,Snowflake Join Schema.
+incollection,Computerized Provider Order Entry.
+incollection,Prior.
+incollection,RBAC Standard.
+incollection,Valid-Time Algebras.
+incollection,Biased Graph.
+incollection,Penetration Testing.
+incollection,Web 2.0.
+incollection,Signatures.
+incollection,Citizen Sensing.
+incollection,Faceted Classifications.
+incollection,Gibbs Sampler.
+incollection,Sociology of the Web.
+incollection,Learning from Non-Propositional Data.
+incollection,McDiarmid's Inequality.
+incollection,Chains.
+incollection,Markov Network.
+incollection,Polarity Distribution.
+incollection,Traditional Data Replication.
+incollection,Document Term Weighting.
+incollection,Patient Similarity.
+incollection,Crime Prevention.
+incollection,Adaboost.
+incollection,Indexing for Similarity Search.
+incollection,Quantum Chemistry.
+incollection,Distributed Memory Computers.
+incollection,ARP Poison Routing (APR).
+incollection,Higher-Order Entity-Relationship Model.
+incollection,Net Lift Modeling.
+incollection,Quantum Chromodynamics (QCD) Computations.
+incollection,Microtext.
+incollection,RNN Query.
+incollection,Business Marketing.
+incollection,Legislative Vote Prediction.
+incollection,Social Communities Competition.
+incollection,R&D (Research and Development) Collaborations.
+incollection,Safety.
+incollection,Online Social Networks' Concepts.
+incollection,Graph.
+incollection,Semantic Web Service Composition.
+incollection,Document Model.
+incollection,Knowledge Discovery in Networks.
+incollection,Social Content Search.
+incollection,Event Driven Service-oriented Architecture.
+incollection,Query Suggestion.
+incollection,Probabilistic Relational Models.
+incollection,Meso-Scale Structures in Crowd.
+incollection,Secure Hardware.
+incollection,Performance Metrics.
+incollection,Time-Dependent Networks.
+incollection,Large-Scale Network.
+incollection,DLP.
+incollection,Multi-objective Optimization.
+incollection,Ties.
+incollection,YouTube.
+incollection,Attribute Selection.
+incollection,AP@n.
+incollection,Semi-Structured Query Languages.
+incollection,Synchronous Join.
+incollection,DAS.
+incollection,Service Orchestration.
+incollection,Parallel Ocean Program (POP).
+incollection,k-Closest Pair Join.
+incollection,Lineage.
+incollection,Bookmarks.
+incollection,Multigraph.
+incollection,Principal Component Method.
+incollection,Organizational Design.
+incollection,Network Social Capital.
+incollection,Online.
+incollection,Derived Event.
+incollection,Network Mining.
+incollection,Relational Data Mining.
+incollection,Temporal Logic.
+incollection,Data Mining and Knowledge Discovery in Economic Networks.
+incollection,Hidden Role.
+incollection,Knowledge Management.
+incollection,MM Indexing.
+incollection,Search Engine.
+incollection,Social Trust.
+incollection,TP.
+incollection,MD4 Hash Function.
+incollection,Page Representations.
+incollection,Data Inconsistencies.
+incollection,Urban Form.
+incollection,Misinformation.
+incollection,Web-Based Social Networks.
+incollection,Social Weight.
+incollection,Prediction of Credit Default and Churn.
+incollection,Social Network Security.
+incollection,Organizational Grapevine.
+incollection,Document.
+incollection,Subgraph Mining.
+incollection,ARTDP.
+incollection,Programming by Example (PBE).
+incollection,Weak Memory Consistency.
+incollection,Log-Linear Models.
+incollection,Structural Autonomy.
+incollection,Error Curve.
+incollection,Subgraph Mining.
+incollection,Collaborative Editing.
+incollection,Networks Dynamics Analysis.
+incollection,Collaborative Filtering Using Social Data.
+incollection,PDMS.
+incollection,Graph-Tool.
+incollection,Normalized Discounted Cumulated Gain (nDCG).
+incollection,Reinforcement Learning in Structured Domains.
+incollection,Collaboration Platforms.
+incollection,Risks.
+incollection,Time-Aware User Interests Extraction.
+incollection,Example-Based Programming.
+incollection,First-Order Regression Tree.
+incollection,Web Preservation.
+incollection,High-Dimensional Data.
+incollection,Edwards Coordinates.
+incollection,Counterterrorism Applications.
+incollection,Sentiment Detection and Analysis.
+incollection,Materialized Query Tables.
+incollection,Distributed Component Object Model.
+incollection,Agent-Based Modeling and Simulation.
+incollection,Time Unit.
+incollection,Higher Order Derivative Attack.
+incollection,Symmetrization Lemma.
+incollection,Navigation.
+incollection,Business Process Monitoring.
+incollection,RIPPER.
+incollection,Edge Prediction.
+incollection,Friends of Friends.
+incollection,Sample Space.
+incollection,Pairwise Classification.
+incollection,True Positive Rate.
+incollection,Feature Subset Selection.
+incollection,Social Computing.
+incollection,Component-Based Web Applications.
+incollection,Anonymity.
+incollection,Instance Identification.
+incollection,Web Services Description Language.
+incollection,Inventor Networks.
+incollection,Temporal Data.
+incollection,Co-Reference Resolution.
+incollection,Growing Set.
+incollection,Waiting Time Models.
+incollection,Hypercube.
+incollection,Layered Social Networks.
+incollection,Social Media Analysis.
+incollection,Knowledge Management.
+incollection,ASP.NET.
+incollection,Opinion Extraction.
+incollection,Centrality Measures.
+incollection,Atomic Operations.
+incollection,Prisoner's Dilemma.
+incollection,Gene.
+incollection,Concurrency Control.
+incollection,Theory of Mazurkiewicz-Traces.
+incollection,Eigenvalue with the Largest Magnitude - Dominant Eigenvalue.
+incollection,Boundary Problem.
+incollection,Company Chart.
+incollection,Speculative Threading.
+incollection,Multimodal.
+incollection,Stochastic Actor-Based Models.
+incollection,Network File Format.
+incollection,Kohonen Maps.
+incollection,ID3.
+incollection,Distance Metrics.
+incollection,Group Communication.
+incollection,Server Farm.
+incollection,Bias Variance Decomposition.
+incollection,Link-Based Classification.
+incollection,Instruction-Level Parallelism.
+incollection,Artificial Life.
+incollection,ParaMETIS.
+incollection,Service-Oriented Architectures.
+incollection,Tape Libraries.
+incollection,Moveable Networks.
+incollection,Spatiotemporal Outlier.
+incollection,Heterogeneous Element Processor.
+incollection,Web Information Integration and Schema Matching.
+incollection,Meta-Combiner.
+incollection,Call Network.
+incollection,Freshness Control.
+incollection,Report Confirmation.
+incollection,World Wide Web Consortium.
+incollection,Strong Scaling.
+incollection,Linear Regression Trees.
+incollection,Persistent Applications.
+incollection,Networks in the Humanities.
+incollection,Simulation.
+incollection,Minimum Cuts.
+incollection,Positive Semidefinite.
+incollection,Divergence Control.
+incollection,Instance Space.
+incollection,Clustering.
+incollection,Bias-Variance-Covariance Decomposition.
+incollection,Reference Reconciliation.
+incollection,Clustering with Qualitative Information.
+incollection,Domain Relational Calculus.
+incollection,Holdout Evaluation.
+incollection,Peer Influence.
+incollection,Visual Mining.
+incollection,TPQ.
+incollection,Digital.
+incollection,Spatial Interaction.
+incollection,Temporal-Textual Web Search.
+incollection,Hayashi's Quantification Theory Type III.
+incollection,Feature Generation in Text Mining.
+incollection,Statistical Learning.
+incollection,Topic Information Diffusion.
+incollection,Social Capital of Public Managers.
+incollection,Avatar.
+incollection,Object Detection and Recognition.
+incollection,Biased Graph.
+incollection,Databases.
+incollection,Socio-technical Systems.
+incollection,Online Group.
+incollection,Primary Memory.
+incollection,Magnetic Disk.
+incollection,Cyber Medicine.
+incollection,Audible Sound.
+incollection,Bi-clustering.
+incollection,One-Step Reinforcement Learning.
+incollection,Networks.
+incollection,Clinical Content Registry.
+incollection,Biclustering.
+incollection,Scale-Free Distributions.
+incollection,Collective Action.
+incollection,Reciprocal Averaging.
+incollection,Perl.
+incollection,Maximum Entropy Random Networks.
+incollection,Choice of Setting.
+incollection,Finite Mixture Model.
+incollection,Propositional Logic.
+incollection,Ordered Rule Set.
+incollection,Oriented Clustering.
+incollection,Unsolicited Commercial Email Filtering.
+incollection,Social Network Analysis in Organizations.
+incollection,Plan Recognition.
+incollection,Perusal.
+incollection,Expected Value.
+incollection,SNA Software.
+incollection,Network Analysis.
+incollection,Connection Strength.
+incollection,Matrix Computations.
+incollection,Web 2.0 Recommender Systems.
+incollection,Android.
+incollection,Cross-Language Information Retrieval.
+incollection,Complexity.
+incollection,Universal Integrated Circuit Card.
+incollection,Holdout Set.
+incollection,Java Application Server.
+incollection,Lossless Data Compression.
+incollection,LDA.
+incollection,ORA-Lite.
+incollection,Area-Universal Networks.
+incollection,Loss.
+incollection,Markov Chain.
+incollection,Concept Languages.
+incollection,Temporal Analysis.
+incollection,Collective Decision Making and Social Networks.
+incollection,Network Panel Data.
+incollection,Relevance Functions.
+incollection,Identify Influential Nodes.
+incollection,Continuous Query Processing.
+incollection,Temporal Structure.
+incollection,Adaptive Query Optimization.
+incollection,Tensor Decomposition.
+incollection,Digraphs.
+incollection,Hacker.
+incollection,Is More Specific Than.
+incollection,Passive Learning.
+incollection,Non-Pipelineable Operator.
+incollection,Power Elite.
+incollection,Tag-Based Recommendation.
+incollection,Stochastic Diffusion Model for Propagation of Influence in a Social Network.
+incollection,Visualization Reference Model.
+incollection,Analysis of Social Relations.
+incollection,Co-training.
+incollection,Competitive Learning.
+incollection,Spatiotemporal Collaborative Filtering.
+incollection,Modularity.
+incollection,Classical Cryptosystem.
+incollection,Immune Computing.
+incollection,Electronic Health Record.
+incollection,Secure Hash Algorithm.
+incollection,Schema Matching.
+incollection,Probability Distributions.
+incollection,Statistical Simulation.
+incollection,Description.
+incollection,Multigraph.
+incollection,CC.
+incollection,DPA.
+incollection,Latent Factor Models and Matrix Factorizations.
+incollection,Integrated Circuit Card.
+incollection,Network Measure.
+incollection,Nonstationary Kernels.
+incollection,True Negative Rate.
+incollection,ECPP.
+incollection,Little's Lemma.
+incollection,Language Bias.
+incollection,Gram Matrix.
+incollection,IBE.
+incollection,Social Classification.
+incollection,Strain Model.
+incollection,Social Data Analysis.
+incollection,Sociomatrix.
+incollection,Archives.
+incollection,Candidate-Elimination Algorithm.
+incollection,Genetics-Based Machine Learning.
+incollection,Time Sequence.
+incollection,Evolving Networks or Graphs.
+incollection,Markov Process.
+incollection,Quadratic Loss.
+incollection,Race.
+incollection,Semantic Web.
+incollection,Network Diagram.
+incollection,Trust.
+incollection,Community Computing.
+incollection,Learning Classifier Systems.
+incollection,SOM.
+incollection,Nondeterminator.
+incollection,Social Graph Dataset.
+incollection,Heterogeneous Information Networks.
+incollection,Clustering Ensembles.
+incollection,Image Content.
+incollection,Test Instances.
+incollection,Dynamic Bayesian Network.
+incollection,Attribute-Value Learning.
+incollection,Frequent Set.
+incollection,Network or Graph Visualization.
+incollection,Mobile Computing.
+incollection,Core Graph Decomposition.
+incollection,Semantic Perception.
+incollection,Deviation from Randomness.
+incollection,Commercial Email Filtering.
+incollection,Mobile Sensing Technologies.
+incollection,Reproducibility.
+incollection,Maliciously Modified Set of Administrative Tools.
+incollection,Propagation of Uncertainty.
+incollection,Description.
+incollection,Virtual Items.
+incollection,Time Sequence Query.
+incollection,Query Segmentation.
+incollection,Digital Government.
+incollection,Multidimensional.
+incollection,Evolving Neural Networks.
+incollection,Numeric Attribute.
+incollection,Topic Identification.
+incollection,Link-Based Ranking.
+incollection,Social Networking.
+incollection,Agent-Based Computational Models.
+incollection,Aggregation and Threshold Algorithms for XML.
+incollection,S-Transactions.
+incollection,Topic Networks.
+incollection,Data Mash-ups.
+incollection,Research in Network Visualization.
+incollection,Matrix.
+incollection,Relational Learning.
+incollection,Telco Operators.
+incollection,Benchmark.
+incollection,Zero-One Loss.
+incollection,Library.
+incollection,Multiplication of Vector and Matrix.
+incollection,Instruction Systolic Arrays.
+incollection,Universal Scaling.
+incollection,Lp Distances.
+incollection,Rough Set Theory
+incollection, Granular Computing on Partition.
+incollection,Social Factor.
+incollection,Split Tests.
+incollection,One-Against-One Training.
+incollection,Bilingual Lexicon Extraction.
+incollection,Intent Recognition.
+incollection,Network Representation and File.
+incollection,Learning by Imitation.
+incollection,Online Privacy Risk Management.
+incollection,Dependence Polyhedron.
+incollection,Training Instances.
+incollection,Semantic Web Search.
+incollection,Semantic Web Modeling Language.
+incollection,Posterior.
+incollection,Team Collaboration.
+incollection,Agent
+incollection, User
+incollection, Peer.
+incollection,Predicate Calculus.
+incollection,Strong Coupling.
+incollection,Security.
+incollection,Data Replication Protocols.
+incollection,Continuous Data Feed.
+incollection,Top Management Teams.
+incollection,Maximum Entropy Random Networks.
+incollection,Random Walks.
+incollection,NTRUEncrypt.
+incollection,Stochastic Models.
+incollection,Online Privacy Risk Management.
+incollection,Utility Computing.
+incollection,Speculative Thread-Level Parallelization.
+incollection,Multimodal.
+incollection,User Behavior.
+incollection,Mining Social Media Data.
+incollection,In-Sample Evaluation.
+incollection,Signed Network.
+incollection,Guilt by Association.
+incollection,Reward.
+incollection,Categorical Data Similarity.
+incollection,Extensible Markup Language.
+incollection,Learning to Rank.
+incollection,Wrapper Verification and Reinduction.
+incollection,Queuing Analysis.
+incollection,Hanf-Locality.
+incollection,Resource Affinity Scheduling.
+incollection,NAS Servers.
+incollection,Microblog Sentiment Analysis.
+incollection,HSM.
+incollection,Zeta Function Computation.
+incollection,Structural Measure.
+incollection,Big Data.
+incollection,Pornography.
+incollection,Document Representation.
+incollection,Graph Exploration.
+incollection,Internal Model Control.
+incollection,eXtensible Stylesheet Language Transformations.
+incollection,Collaborative Problem-Solving.
+incollection,Common Object Request Broker Architecture.
+incollection,Organizational Networks.
+incollection,Neuro-Dynamic Programming.
+incollection,Multi-classifier System.
+incollection,Provenance Paths.
+incollection,Copy Transparency.
+incollection,Subsumed by Windows Communication Framework.
+incollection,Network Offload.
+incollection,Grammar Learning.
+incollection,Behavioral Relations.
+incollection,Relationship Extraction.
+incollection,Historical Spatio-Temporal Access Methods.
+incollection,Spatial-Textual Web Search.
+incollection,Online Knowledge Networks.
+incollection,Eigenvalue and Eigenvector - Characteristic Value and Characteristic Vector.
+incollection,Risk.
+incollection,Erotica.
+incollection,Logarithmic-Depth Sorting Network.
+incollection,OPUS.
+incollection,Scan
+incollection, Reduce and.
+incollection,Amdahl's Argument.
+incollection,PCI-Express.
+incollection,Decision Trees For Regression.
+incollection,Sequential Prediction.
+incollection,Video Compression.
+incollection,Graph Matching.
+incollection,Time-Dependent Graphs.
+incollection,Genetics-Based Machine Learning.
+incollection,Learning from Complex Data.
+incollection,Cascor.
+incollection,Inversion in Galois Fields.
+incollection,Replica Consistency.
+incollection,Distance Indexing.
+incollection,Dependence Direction Vector.
+incollection,Multicomputers.
+incollection,SPEC HPC2002.
+incollection,Relational Regression Tree.
+incollection,Estimating Prevalence of Sentiment Classes in User-Generated Content.
+incollection,Prediction of Credit Default and Churn.
+incollection,Data Integration.
+incollection,Quantitative Measurement.
+incollection,Large Networks.
+incollection,Liquid State Machine.
+incollection,Ontology Alignment.
+incollection,Family Groups in Crowd.
+incollection,Actors.
+incollection,Dependence Analysis.
+incollection,Semantic Mapping.
+incollection,Network Bayesian Games.
+incollection,Online Health Groups.
+incollection,Lessons-Learned Systems.
+incollection,Query Suggestion.
+incollection,Numeric Attribute.
+incollection,Recommendation System.
+incollection,Cube Precomputation.
+incollection,Statistical Modeling.
+incollection,Objective Function.
+incollection,Object Space.
+incollection,Vision.
+incollection,Rollback.
+incollection,Mean-Centered Partial Least Square Correlation.
+incollection,Time-Stamped Graphs.
+incollection,Interorganizational Collaborations.
+incollection,Volcano Pattern.
+incollection,NAS.
+incollection,Online Social Networks.
+incollection,Human Ear Recognition.
+incollection,The High Performance Substrate.
+incollection,Feedforward Recurrent Network.
+incollection,Collaborative Filtering.
+incollection,Time-Varying Graphs.
+incollection,Legal Issues.
+incollection,Querying and Summarizing Social Networks Posts with Respect to Spatial and Temporal Dimensions.
+incollection,Organizational Online Grids.
+incollection,Region Segmentation.
+incollection,Blue Gene/P.
+incollection,Data Processing.
+incollection,Community Mining.
+incollection,Secure Logging.
+incollection,Media Recovery.
+incollection,Pruning Set.
+incollection,Social Spam.
+incollection,Breakeven Point.
+incollection,Viral Marketing.
+incollection,Identity Proof.
+incollection,Non-Gaussianity.
+incollection,Multi-relational Network.
+incollection,Evaluation.
+incollection,Event Pedigree.
+incollection,Inductive Program Synthesis.
+incollection,VGI.
+incollection,Corporate Linguistic Personae.
+incollection,Spatial-Temporal Data Analysis.
+incollection,Urban Form.
+incollection,Nursing.
+incollection,Summary Statistics.
+incollection,Transportable Networks.
+incollection,Communication Network.
+incollection,Infiltration.
+incollection,Search Missions.
+incollection,Clustering Evaluation.
+incollection,East Asia.
+incollection,Social Content Search.
+incollection,Crime Prevention.
+incollection,W3C Standard RDF Query Language.
+incollection,Predicate Logic.
+incollection,Social Network Anonymity.
+incollection,Inverted Indexes.
+incollection,Applications.
+incollection,Sentiment Analysis.
+incollection,User Classification.
+incollection,Denial of Service (DoS).
+incollection,Incremental Computation.
+incollection,Trusted Database Systems.
+incollection,Communities.
+incollection,Reliability.
+incollection,Clustering with Qualitative Information.
+incollection,Reconnaissance.
+incollection,First-Order Predicate Logic.
+incollection,Sociometric Diagram.
+incollection,Propagation of Uncertainty.
+incollection,Check-In.
+incollection,Ontology Alignment.
+incollection,Space-Embedded Networks.
+incollection,Knowledge Discovery from Biological Resources.
+incollection,Out-of-Sample Data.
+incollection,Electronic Communities of Practice.
+incollection,Non-response.
+incollection,Socio-Technical Systems.
+incollection,User Behaviors.
+incollection,Random Networks.
+incollection,Boosting.
+incollection,Comparison Criteria.
+incollection,Algorithm Evaluation.
+incollection,Social Structural Analysis.
+incollection,Clustering.
+incollection,Maps.
+incollection,Telecommunications Fraud.
+incollection,Multi-Armed Bandit Problem.
+incollection,Science of the Web.
+incollection,Geodesic Distance
+inproceedings,Grassmannian Spectral Regression for Action Recognition.
+inproceedings,A Framework to Enrich Student Interaction via Cross-Institutional Microblogging.
+inproceedings,Differential space-time modulation schemes for DS-CDMA systems.
+inproceedings,DNR and the Use of Blended Learning Methodology in German Police Education.
+inproceedings,Decentralized computation of the conditional posterior Cramér-Rao lower bound
+phdthesis,Ein Beitrag zur rechnergestützten Instandhaltung von Seeschiffen.
+phdthesis,Der Beitrag nominaler Kohärenz zu Organisation und Struktur englischer Texte
+phdthesis,ermittelt unter Einbeziehung mathematischer Methoden.
+phdthesis,Stichplanoptimierung als wichtiges Mittel zur Projektierung
+phdthesis,beim Betrieb und bei der Automatisierung von Kaltwalz-Reversierwalzwerken.
+phdthesis,Neue Herangehensweisen im Rahmen der Implementierung einer portablen
+phdthesis,flexiblen und integrierten Software-Entwicklungsumgebung für die digitale Bildverarbeitung.
+phdthesis,Wege zur Erhöhung von Entscheidungsbezogenheit und Rationalität der Warenrechnung im bezirksgeleiteten sozialistischen Konsumgütereinzelhandel unter Berücksichtigung der Entwicklungstendenzen der elektronischen Datenverarbeitung.
+phdthesis,Erstellen einer Datenbank für ein computergestütztes Literaturrecherchesystem zur Ätiologie
+phdthesis,Diagnostik und Therapie von Missbildungen im Kopf-Hals-Bereich
+proceedings,Security
+proceedings,Steganography
+proceedings,and Watermarking of Multimedia Contents IX
+proceedings,San Jose
+proceedings,CA
+proceedings,USA
+proceedings,January 28
+proceedings,2007
+proceedings,Proceedings of the 41st Annual Meeting of the Association for Computational Linguistics
+proceedings,7-12 July 2003
+proceedings,Sapporo Convention Center
+proceedings,Sapporo
+proceedings,Japan.
+proceedings,Mathematical Knowledge Management
+proceedings,5th International Conference
+proceedings,MKM 2006
+proceedings,Wokingham
+proceedings,UK
+proceedings,August 11-12
+proceedings,2006
+proceedings,Proceedings
+proceedings,Proceedings of the First International Workshop on Bringing the Value of "Big Data" to Users
+proceedings,Data4U@VLDB 2014
+proceedings,Hangzhou
+proceedings,China
+proceedings,September 1
+proceedings,2014
+proceedings,International Workshop on Accelerating Analytics and Data Management Systems Using Modern Processor and Storage Architectures
+proceedings,ADMS@VLDB 2017
+proceedings,Munich
+proceedings,Germany
+proceedings,September 1
+proceedings,2017.
+proceedings,Proceedings of the 1st International Conference on Tangible and Embedded Interaction 2007
+proceedings,Baton Rouge
+proceedings,Louisiana
+proceedings,USA
+proceedings,February 15-17
+proceedings,2007
+proceedings,Trends in Distributed Systems
+article,Intelligent English translation mobile platform and recognition system based on support vector machine.
+article,Closed-Form Expressions for Projectors onto Polyhedral Sets in Hilbert Spaces.
+article,Algorithm 712
+book,Datenbankgestütztes Kosten- und Erlöscontrolling
+incollection,On the Semantics of Logic Program Composition.
+incollection,Programmed Graph Replacement Systems.
+incollection,The Expression of Graph Properties and Graph Transformations in Monadic Second-Order Logic.
+inproceedings,Front Matter
+inproceedings,Table of Contents
+inproceedings,Preface
+inproceedings,Conference Organization.
+inproceedings,Debate of Academic Freedom and University Autonomy.
+inproceedings,Industrial Policy Analysis on Low-carbon Economic Development.
+inproceedings,Firm Size and Capital Structure Choice.
+inproceedings,Foreword.
+inproceedings,Research on the Elder Tourism Market in Shanghai.
+inproceedings,Preface.
+inproceedings,Statistical Analysis on financial maturity in Guangdong Province.
+inproceedings,The Domestic Effect of Technological Progress on China's OFDI
+mastersthesis,Portierung des DBLP-Systems auf ein relationales Datenbanksystem und Evaluation der Performance.
+mastersthesis,Efficient View Maintenance at Data Warehouses.
+mastersthesis,PRPL
+phdthesis,Semantic interoperability of ambient intelligent medical devices and e-health systems.
+proceedings,25th IEEE Symposium on Reliable Distributed Systems (SRDS 2006)
+proceedings,2-4 October 2006
+proceedings,Leeds
+proceedings,UK
+proceedings,Ninth Symposium on Reliable Distributed Systems
+proceedings,SRDS 1990
+proceedings,Huntsville
+proceedings,Alabama
+proceedings,USA
+proceedings,October 9-11
+proceedings,1990
+proceedings,Proceedings
+proceedings,38th International Symposium on Reliable Distributed Systems Workshops
+proceedings,SRDS Workshops 2019
+proceedings,Lyon
+proceedings,France
+proceedings,October 1-4
+proceedings,2019
+proceedings,7th International Workshop on Ranking in Databases (co-located with VLDB 2013)
+proceedings,DBRank 2013
+proceedings,Riva del Garda
+proceedings,Italy - August 30 - 30
+proceedings,2013
+proceedings,2013 IEEE International Conference on Services Computing
+proceedings,Santa Clara
+proceedings,CA
+proceedings,USA
+proceedings,June 28 - July 3
+proceedings,2013
+proceedings,2015 IEEE Applied Imagery Pattern Recognition Workshop
+proceedings,AIPR 2015
+proceedings,Washington
+proceedings,DC
+proceedings,USA
+proceedings,October 13-15
+proceedings,2015
+proceedings,proceedings,of 28th International Conference on Very Large Data Bases
+proceedings,VLDB 2002
+proceedings,Hong Kong
+proceedings,August 20-23
+proceedings,2002
+proceedings,proceedings,of the 13. IAPR International Conference on Machine Vision Applications
+proceedings,MVA 2013
+proceedings,Kyoto
+proceedings,Japan
+proceedings,May 20-23
+proceedings,2013
+proceedings,proceedings,of IAPR Workshop on Computer Vision - Special Hardware and Industrial Applications
+proceedings,MVA 1988
+proceedings,Tokyo
+proceedings,Japan
+proceedings,October 12-14
+proceedings,1988
+proceedings,2005 IEEE International Conference on Services Computing (SCC 2005)
+proceedings,11-15 July 2005
+proceedings,Orlando
+proceedings,FL
+proceedings,USA
+proceedings,Tenth Symposium on Reliable Distributed Systems
+proceedings,SRDS 1991
+proceedings,Pisa
+proceedings,Italy
+proceedings,September 30 - October 2
+proceedings,1991
+proceedings,Proceedings
+proceedings,2018 IEEE International Conference on Services Computing
+proceedings,SCC 2018
+proceedings,San Francisco
+proceedings,CA
+proceedings,USA
+proceedings,July 2-7
+proceedings,2018
+proceedings,12th Asia Joint Conference on Information Security
+proceedings,AsiaJCIS 2017
+proceedings,Seoul
+proceedings,South Korea
+proceedings,August 10-11
+proceedings,2017
+proceedings,2006 IEEE International Conference on Services Computing (SCC 2006)
+proceedings,18-22 September 2006
+proceedings,Chicago
+proceedings,Illinois
+proceedings,USA
+proceedings,proceedings,of the IAPR Conference on Machine Vision Applications (IAPR MVA 2000)
+proceedings,November 28-30
+proceedings,2000
+proceedings,Tokyo
+proceedings,Japan
+proceedings,Third Symposium on Reliability in Distributed Software and Database Systems
+proceedings,SRDS 1983
+proceedings,Clearwater Beach
+proceedings,FL
+proceedings,USA
+proceedings,October 17-19
+proceedings,1983
+proceedings,Proceedings
+proceedings,proceedings,of the 3rd Annual Conference on Information Security Curriculum Development
+proceedings,InfoSecCD 2006
+proceedings,Kennesaw
+proceedings,Georgia
+proceedings,USA
+proceedings,September 22-23
+proceedings,2006
+proceedings,proceedings,of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing
+proceedings,ACL 2015
+proceedings,July 26-31
+proceedings,2015
+proceedings,Beijing
+proceedings,China
+proceedings,Volume 1
+article,Community-Engaged GIS for Urban Food Justice Research.
+article,Applied Geospatial Perspectives on the Rock Art of the Lake of the Woods Region of Ontario
+article,Canada.
+article,The RiskCity Training Package on Multi-Hazard Risk Assessment.
+article,Emerging Retail Strategies in Urban Canada.
+article,Exploring Non-Linear Relationships between Landscape and Aquatic Ecological Condition in Southern Wisconsin
+book,Environmental Systems Research Institute
+incollection,Approximation Algorithms for CSPs.
+incollection,Interpolants Induced by Marching Cases.
+incollection,Text Mining for Insurance Claim Cost Prediction.
+incollection,Absorption in Universal Algebra and CSP.
+incollection,Visualisation and Exploration of Scientific Data Using Graphs.
+incollection,Informing the Curious Negotiator
+inproceedings,Property-Driven Dynamic Call Graph Exploration.
+inproceedings,Panel
+phdthesis,Dynamic Difficulty Adjustment.
+phdthesis,Multimodal object perception for robotics.
+phdthesis,Objektorientierte Integration von autonomen Datenhaltungssystemen.
+phdthesis,Computing with noise in spiking neural networks.
+phdthesis,Unterstützung der Projektbewertung mit externen Datenbanken bei Klein- und Mittelunternehmen.
+phdthesis,Concept and implementation of an efficient communication network for distributed parallel computing.
+phdthesis,Protein Function Prediction using Phylogenomics
+phdthesis,Domain Architecture Analysis
+phdthesis,Data Integration
+phdthesis,and Lexical Scoring.
+phdthesis,Künstliche-Intelligenz-Forschung in Deutschland
+proceedings,Recent Advances in Swarm Intelligence and Evolutionary Computation
+proceedings,Software Engineering Research
+proceedings,Management and Applications [selected papers from the 12th International Conference on Software Engineering Research
+proceedings,Management and Applications
+proceedings,SERA 2014
+proceedings,Kitakyushu
+proceedings,Japan
+proceedings,2014]
+proceedings,Philosophy and Theory of Artificial Intelligence
+proceedings,PT-AI 2011
+proceedings,Thessaloniki
+proceedings,Greece
+proceedings,October 3-4
+proceedings,2011
+proceedings,Proceedings.
